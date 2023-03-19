@@ -1,0 +1,3 @@
+[submodule "workshop-irrlicht-app"]
+	path = workshop-irrlicht-app
+	url = https://github.com/train-it-eu/workshop-irrlicht-app.git
