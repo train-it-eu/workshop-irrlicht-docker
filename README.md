@@ -1,4 +1,4 @@
-# [Modern C++ Design: Part I](https://train-it.eu/trainings/cpp/27-modern-cpp-design-part-1) Workshop Preparation
+# [Modern C++ Design: Part I](https://train-it.eu/trainings/cpp/27-modern-cpp-design-part-1) Workshop Docker Wrapper
 
 ## Development Environment Setup
 
